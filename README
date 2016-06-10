@@ -1,3 +1,3 @@
 -RTMP streaming( Real time messaging protocol) : video will be delivered live to the clients
--RTSP streaming(Real time streaming protocol) is control protocol for streaming serves
+-RTSP streaming(Real time streaming protocol) is control protocol for streaming servers
 -HTTP live streaming 
